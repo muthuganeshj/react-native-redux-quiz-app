@@ -1,0 +1,12 @@
+{
+  "name": "TriviaGame",
+  "displayName": "TriviaGame",
+  "expo": {
+    "name": "TriviaGame",
+    "slug": "TriviaGame",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
