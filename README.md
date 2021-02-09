@@ -81,3 +81,10 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 3. org.gradle.jvmargs=-Xmx4096m
 
 ---
+
+## Known Issues
+
+1. On iOS has a problem to load the remote config, so there is a fallback to dont let app stop working
+2. I wasnt able to execute e2e for iOS
+
+---
