@@ -9,7 +9,18 @@ Before proceeding it is needed that you have installed on your machine the follo
 4. brew install --HEAD applesimutils
 5. npm install -g detox-cli
 6. Follow the installation process on [react-native-setup](https://reactnative.dev/docs/environment-setup)
+7. Create a .env file with the following structure and add the accordinly values:
 
+```
+FIREBASE_API_KEY=''
+FIREBASE_AUTH_DOMAIN=''
+FIREBASE_PROJECT_ID=''
+FIREBASE_STORAGE_BUCKET=''
+FIREBASE_MESSAGING_SENDER_ID=''
+FIREBASE_APP_ID=''
+FIREBASE_MEASUREMENT_ID=''
+FIREBASE_DATABASE_URL=''
+```
 ---
 
 ## Running the project in development mode
